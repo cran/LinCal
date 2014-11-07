@@ -1,0 +1,13 @@
+877d9a5317e2d85a7324888525be60fb *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+434684826b5583d2b37d26ca4c066a00 *R/class_calib.R
+8fbb09174d81f2f2a394176687c9e83c *R/hoad_calib.R
+6b142c49372fd51dccf166c5d63643c7 *R/huntlam_calib.R
+41a21a3a7a134117594a46481bb8e7a3 *R/inver_calib.R
+e19f0ae66e474cb00fc13ae7c45c0e96 *data/wheat.rda
+801ab1e2d8e0c0145297c57b1f634e54 *man/LinCal-package.Rd
+275d38d64a982832d182cc9be0c4092d *man/class.calib.Rd
+3034aa7cc34b5eeedb73498305ee7ddd *man/hoad.calib.Rd
+1f5e66611de540b071b3163f41a72c19 *man/huntlam.calib.Rd
+26e62dfc0888dfdc1750df6bc66ceb4d *man/inver.calib.Rd
+7c60cde3ff2b628e25b4061a51490561 *man/wheat.Rd
