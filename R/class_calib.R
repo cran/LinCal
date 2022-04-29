@@ -1,6 +1,7 @@
 #' Classical Linear Calibration Function
 #'
 #' \code{class.calib} uses the classical frequentist approach to estimate an unknown X given observed vector y0 and calculates confidence interval estimates.
+#' @importFrom stats anova coef lm qnorm qt rnorm
 #' @param x numerical vector of regressor measurments
 #' @param y numerical vector of observation measurements
 #' @param alpha the confidence interval to be calculated

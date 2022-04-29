@@ -1,6 +1,7 @@
 #' Bayesian Inverse Linear Calibration Function
 #'
 #' \code{hoad.calib} uses an inverse Bayesian approach to estimate an unknown X given observed vector y0 and calculates credible interval estimates.
+#' @importFrom stats anova coef lm qnorm qt rnorm
 #' @param x numerical vector of regressor measurments
 #' @param y numerical vector of observation measurements
 #' @param alpha the confidence interval to be calculated

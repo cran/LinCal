@@ -12,8 +12,8 @@ A collection of R functions for conducting linear statistical calibration.
 \tabular{ll}{
 Package: \tab LinCal\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2014-11-06\cr
+Version: \tab 1.0.1\cr
+Date: \tab 2022-04-27\cr
 License: \tab GPL-2\cr
 }
 
@@ -21,7 +21,7 @@ License: \tab GPL-2\cr
 \author{
 Derick L. Rivers and Edward L. Boone
 
-Maintainer: Derick L. Rivers <riversdl@vcu.edu>
+Maintainer: Derick L. Rivers <riversdl@alumni.vcu.edu>
 
 }
 \references{
